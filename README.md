@@ -1,1 +1,1 @@
-Thank you for reading this! I have attacthed the Jupyter notebook file that I created using jupyterlab! God Bless!
+Thank you for reading this! After receving feedback this morning from my previous notebook, I realized i misunderstood a few elements, so i made the proper adjustments and included them under "notebooks data science". Please if possible grade from there, thank you very much!
